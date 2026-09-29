@@ -1,0 +1,6 @@
+{
+  "name": "MES工控屏",
+  "description": "包含批量报工功能的制造执行系统界面",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
